@@ -1,0 +1,5 @@
+Model,Horizon,MAE,RMSE
+Persistence,24h,8.29,12.56
+Random Forest,24h,7.58,10.35
+Persistence,48h,12.3,18.97
+Random Forest,48h,13.07,17.62
