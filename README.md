@@ -65,4 +65,4 @@ python src/lstm_model.py
 - Evaluate with rolling-window cross-validation and more cities
 
 ## Author
-Zona Rangrez
+Zona Sameer Rangrez
